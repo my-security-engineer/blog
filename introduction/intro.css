@@ -35,3 +35,8 @@ html{
   font-size: 25px;
   vertical-align: middle;
 }
+
+.text img{
+  text-align: center;
+  width: 250px;
+}

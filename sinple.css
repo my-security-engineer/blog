@@ -93,3 +93,7 @@ main{
   line-height: 1;/*行高は1に*/
   padding: 5px 10px;/*文字周りの余白*/
 }
+
+.wrap-video a{
+  text-align:center;
+}

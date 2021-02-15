@@ -27,7 +27,7 @@ html{
   background-color: black;
 }
 
-.intro{
+.introduction{
   text-justify: justify-all;
   text-align: center;
   color: aliceblue;
@@ -36,7 +36,7 @@ html{
   vertical-align: middle;
 }
 
-.intro img{
+.introduction img{
   text-align: center;
   width: 250px;
 }

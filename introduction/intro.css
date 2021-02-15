@@ -27,16 +27,16 @@ html{
   background-color: black;
 }
 
-.text{
+.intro{
   text-justify: justify-all;
   text-align: center;
   color: aliceblue;
   background-color: black;
-  font-size: 29px;
+  font-size: 13px;
   vertical-align: middle;
 }
 
-.text img{
+.intro img{
   text-align: center;
   width: 250px;
 }
